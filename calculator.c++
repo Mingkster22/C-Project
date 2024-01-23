@@ -1,5 +1,6 @@
 #include <iostream>
 #include <list>
+#include <functional>
 using namespace std;
 
 list<int> list1; 
